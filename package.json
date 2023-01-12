@@ -1,0 +1,25 @@
+{
+  "name": "express-prisma-101-project",
+  "version": "0.0.1",
+  "description": "test/learning project to learn express.js and prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimlees/express-prisma-101-project.git"
+  },
+  "keywords": [
+    "prisma",
+    "express",
+    "backend",
+    "js"
+  ],
+  "author": "Joakim Lee Sletten <joakimlee_sletten@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joakimlees/express-prisma-101-project/issues"
+  },
+  "homepage": "https://github.com/joakimlees/express-prisma-101-project#readme"
+}
