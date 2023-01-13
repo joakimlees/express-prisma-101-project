@@ -4,7 +4,7 @@
   "description": "test/learning project to learn express.js and prisma",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/joakimlees/express-prisma-101-project/issues"
   },
-  "homepage": "https://github.com/joakimlees/express-prisma-101-project#readme"
+  "homepage": "https://github.com/joakimlees/express-prisma-101-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
